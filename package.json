@@ -1,5 +1,5 @@
 {
-  "name": "@rohan/react-native-material-bottom-navigation-depricated-viewproptypes",
+  "name": "react-native-material-bottom-navigation-depricated-viewproptypes",
   "version": "1.0.0",
   "description": "react-native-material-bottom-navigation-depricated-viewproptypes for RN>=6.9",
   "main": "index.js",
